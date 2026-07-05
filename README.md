@@ -1,4 +1,4 @@
-# zig build for MAWK
+# zig build for MAWK - an implementation of new/posix awk
 
 awk interpreter built with zig.
 
